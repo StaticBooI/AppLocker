@@ -1,4 +1,4 @@
 # AppLocker
-A WPF application to help people with ADHD control their playtime.
+A C# WPF application to help people with ADHD control their playtime.
 
-Written in C#, it will allow users to "block" themselves from playing games based on a timer.
+Users will be able to block themselves from playing games on a timer. If they start a game within the duration, the process will be terminated.
